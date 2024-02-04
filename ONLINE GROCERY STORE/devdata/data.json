@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "productName": "Apples",
+    "image": "🍎",
+    "from": "India",
+    "nutrients": "Vitamin B, Vitamin c",
+    "quantity": "3 🍎",
+    "price": "₹120 per Kg",
+    "organic": true,
+    "description": "The apple is a deciduous tree, generally standing 2 to 4.5 m (6 to 15 ft) tall in cultivation and up to 9 m (30 ft) in the wild. When cultivated, the size, shape and branch density are determined by rootstock selection and trimming method. The leaves are alternately arranged dark green-colored simple ovals with serrated margins and slightly downy undersides."
+  },
+  {
+    "id": 1,
+    "productName": "Oranges",
+    "image": "🍊",
+    "from": "China",
+    "nutrients": "Vitamin C",
+    "quantity": "250g",
+    "price": "₹200 per kg",
+    "organic": true,
+    "description": "Fresh oranges are low in calories and a source of fiber, potassium, vitamin C and folate. They help to prevent cancer and cardiovascular diseases. It is a round orange fruit, consumed mainly in winter. Its flesh is also orange and is formed by small bags full of juice. The orange is used for consumption in fresh and for the industry, mainly in juice. The orange, along with the banana and the apple, is one of the most consumed fruits in the world. The orange is a usually round or oval citrus; its rind and flesh are generally orange, except the varieties of red pulp. The edible part of the orange is the flesh, consumed in fresh or in juice. The orange is also used to make stewed fruit, jams, for consumption as dehydrated fruit, etc."
+  },
+  {
+    "id": 2,
+    "productName": "rabbit",
+    "image": "🥦",
+    "from": "Portugal",
+    "nutrients": "Vitamin C, Vitamin K",
+    "quantity": "3 🥦",
+    "price": "₹80 per Kg",
+    "organic": true,
+    "description": "Broccoli is known to be a hearty and tasty vegetable which is rich in dozens of nutrients. It is said to pack the most nutritional punch of any vegetable. When we think about green vegetables to include in our diet, broccoli is one of the foremost veggies to come to our mind. Broccoli is a cruciferous vegetable and part of the cabbage family, which includes vegetables such as Brussel sprouts and kale. Although the tastes are different, broccoli and these other vegetables are from the same family."
+  },
+  {
+    "id": 3,
+    "productName": "Carrots",
+    "image": "🥕",
+    "from": "France",
+    "nutrients": "Vitamin A, Vitamin K",
+    "quantity": "20 🥕",
+    "price": "₹20 per Kg",
+    "organic": true,
+    "description": "The carrot is a root vegetable that is often claimed to be the perfect health food. It is crunchy, tasty and highly nutritious. Carrots are a particularly good source of beta-carotene, fiber, vitamin K, potassium and antioxidants. Carrots have a number of health benefits. They are a weight loss friendly food and have been linked to lower cholesterol levels and improved eye health."
+  },
+  {
+    "id": 4,
+    "productName": "Sweet Corn",
+    "image": "🌽",
+    "from": "Germany",
+    "nutrients": "Vitamin C, Magnesium",
+    "quantity": "2 🌽",
+    "price": "₹50 per Kg",
+    "organic": false,
+    "description": "Also known as maize, corn is one of the most popular cereal grains in the world. Popcorn and sweet corn are commonly eaten varieties, but refined corn products are also widely consumed, frequently as ingredients in foods. These include tortillas, tortilla chips, polenta, cornmeal, corn flour, corn syrup, and corn oil. Whole-grain corn is as healthy as any cereal grain, rich in fiber and many vitamins, minerals, and antioxidants."
+  }
+]
